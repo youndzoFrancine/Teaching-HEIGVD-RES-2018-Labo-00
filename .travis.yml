@@ -4,3 +4,6 @@ cache:
   directories:
   - .autoconf
   - $HOME/.m2
+
+before_script: cd Lab00App-buildLab00App-build
+
